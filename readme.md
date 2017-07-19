@@ -10,3 +10,5 @@ Configurable via tray icon, as shown here:
 ![Screen](http://i.imgur.com/GPCXDmv.png)
 
 Written on C# with some WinAPI functions in SharpDevelop.
+
+*NB:* Tested on english version of Windows 7, other versions or locales may require some edits on exception list in `exceptions.txt` 
