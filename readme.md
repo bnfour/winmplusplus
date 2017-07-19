@@ -6,6 +6,7 @@ Usage:
 * **Win+Shift+M:** minimize all windows on all displays, as without this app;
 
 Configurable via tray icon, as shown here:
+
 ![Screen](http://i.imgur.com/GPCXDmv.png)
 
 Written on C# with some WinAPI functions in SharpDevelop.
